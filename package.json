@@ -1,11 +1,11 @@
 {
   "name": "Office365WebDesktop",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "It is a simple desktop application for Office365 of the web version for linux",
   "main": "./src/main.js",
   "scripts": {
     "start": "electron .",
-    "distLinux": "electron-builder --linux snap",
+    "distLinux": "electron-builder --linux",
     "distWin": "electron-builder --win portable"
   },
   "repository": "https://github.com/rafgui12/office365webdesktop.git",
@@ -37,7 +37,8 @@
       "icon": "./src/images/icon.icns",
       "target": [
         "dir",
-        "snap"
+        "snap",
+        "AppImage"
       ],
       "maintainer": "Rafgui012 <info@rafgui.com>",
       "artifactName": "${name}-${version}-${arch}.${ext}"
