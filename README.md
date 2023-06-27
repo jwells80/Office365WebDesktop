@@ -1,53 +1,33 @@
-# Office365WebDesktop
+# Office365WebDesktop 
 
-Este Proyecto basado en un WebView en [Electrojs](https://www.electronjs.org/) de la versión de office 365, el cual se creó para un fácil acceso y de uso para las distribuciones Linux con Snap, en la version 0.6.3 se cuenta con su primera versión portable para Windows. 
+ This project based on a Webview at [Electrojs] (https://www.electronjs.org/) of the Office 365 version, which was created for easy access and use for Linux distributions with Snap, in the version 0.6.3 It has its first portable version for Windows. 
 
-## Requisitos 
+ ## Requirements 
 
-Para poder instalar esta aplicación en linux es necesario _[snap](https://snapcraft.io/)_, en las distribuciones de linux permitidas. 
+ In order to install this application in Linux it is necessary _ [Snap] (https://snapcraft.io/) _, in the allowed Linux distributions. 
 
-* [**nodejs**](https://nodejs.org)
+ *[** Nodejs **] (https://nodejs.org) 
 
->Para la version de windows es similar pero en windows no es necesario el uso de snap para su instalacion.
+ > For the Windows version it is similar but in Windows it is not necessary to use SNAP for its installation. 
 
-## Como instalar
+ ## How to install 
 
-Se puede instalar el paquete de [![office365webdesktop](https://snapcraft.io/office365webdesktop/badge.svg)](https://snapcraft.io/office365webdesktop)
- directamente desde Snap Store con el siguiente comando
+ The [! Office365WebDesktop] (https://snapcraft.io/Office365WebDesktop/badge.svg) can 
+  directly from Snap Store with the following command 
 
-    $ sudo snap install office365webdesktop --beta
+     $ Sudo Snap Install Office365WebDesktop -Beta 
 
-para windows descargas el archivo .exe de nuestro _[***Release***](https://github.com/rafgui12/Office365WebDesktop/releases/tag/VersionB0.7.0)_ y ejecutas el programa portable  
+ For Windows Downloads the .exe file of our _ [*** Release ***] (https://github.com/rafgui12/Office365WebDesktop/releases/tag/versionb0.7.0) _ And you execute the portable program 
 
-## Ejecutando el entorno de desarrollo
+ ## running the development environment 
 
-puedes ejecutar el proyecto, clonando el repositorio y desde tu directorio local escribiendo los comandos
+ You can execute the project, closing the repository and from your local directory writing the commands 
 
-    $ git clone https://github.com/rafgui12/Office365WebDesktop.git
-    $ cd Office365WebDesktop
-    $ npm install
-    $ npm start
+     $ git clone https://github.com/raffui12/office365WebDesktop.git 
+     $ CD Office365WebDesktop 
+     $ NPM Install 
+     $ NPM Start 
     
-> Recuerda que puedes contribuir a este proyecto, este aplicativo esta basado en [Electrojs](https://www.electronjs.org/) y se necesitara _[nodejs](https://nodejs.org)_, (`.npm`) y de _[snap](https://snapcraft.io/)_ para poder compilarlo
+ > Remember that you can contribute to this project, this application is based on [Electrojs] (https://www.electronjs.org/) and will be needed _ [nodejs] (https://nodejs.org) _, (`. npm`) and _ [snap] (https://snapcraft.io/) _ to be able to compile it 
 
-___
-
-## Author
-
-* [Rafgui012](https://rafgui.com) - [GitHub](https://github.com/rafgui12)
-
-___
-
-## License
-
-This project is licensed under the MIT License - see [LICENSE](https://github.com/rafgui12/Office365WebDesktop/LICENSE.md) for details.
-
-**Office365** or **Office 365** the name, website, images/icons and code are the intellectual properties of [Microsoft](https://www.microsoft.com/), [Office365](https://www.office.com/).
-
-## Donaciones 
-
-Este proyecto es para todos y nunca sin importar las mejoras tendrá un costo, pero dejo este espacio para todos los que quieran a poyar a este proyecto y todo lo donado será para las mejoras y el equipo para la mejorar la experiencia sobre este proyecto. 
-
-[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=TZ7BBQZ9TQFR4&no_recurring=0&item_name=The+donated+will+be+for+the+improvements+and+the+equipment+for+the+best+experience+on+this+project.&currency_code=USD)
-
-
+ ___ 
